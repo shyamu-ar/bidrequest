@@ -1,0 +1,84 @@
+1553663850077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vCcnAXDabpPh"
+1553663855669	Marionette	INFO	Listening on port 43195
+1553663855741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://consolebeta.vertoz.com/js/jqwidgets/jqxlistbox.js?r=4.5, line 7: unreachable code after return statement
+JavaScript warning: http://consolebeta.vertoz.com/tools/controllers/account-transfer.js?r=4.5, line 103: unreachable code after return statement
+JavaScript error: http://consolebeta.vertoz.com/assets/js/ace.min.js?r=4.5, line 23: TypeError: $(...).ace_colorpicker is not a function
+JavaScript error: https://www.google.com/uds/api/visualization/1.0/40ff64b1d9d6b3213524485974f36cc0/format+en,default+en,ui+en,corechart+en.I.js, line 121: Error: Container is not defined
+JavaScript error: https://www.google.com/uds/api/visualization/1.0/40ff64b1d9d6b3213524485974f36cc0/format+en,default+en,ui+en,corechart+en.I.js, line 121: Error: Container is not defined
+JavaScript error: https://www.google.com/uds/api/visualization/1.0/40ff64b1d9d6b3213524485974f36cc0/format+en,default+en,ui+en,corechart+en.I.js, line 121: Error: Container is not defined
+JavaScript error: http://consolebeta.vertoz.com/angular/angular-1.3.14/angular.min.js?r=4.5, line 6: Error: [ng:btstrpd] http://errors.angularjs.org/1.3.14/ng/btstrpd?p0=%26lt%3Bbody%26gt%3B
+JavaScript error: http://consolebeta.vertoz.com/angular/angular-1.3.14/angular.min.js?r=4.5, line 6: Error: [ng:btstrpd] http://errors.angularjs.org/1.3.14/ng/btstrpd?p0=%26lt%3Bbody%26gt%3B
+1553666223743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.E1sFkqdfS4aQ"
+1553666226751	Marionette	INFO	Listening on port 37971
+1553666226768	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript error: https://www.urbandictionary.com/define.php?term=besties, line 1: ReferenceError: buildAttribution is not defined
+1553666273135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CE5nNqJs6TiJ"
+1553666276169	Marionette	INFO	Listening on port 37961
+1553666276283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1553666342242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gwr4qqyr1Qqy"
+1553666345319	Marionette	INFO	Listening on port 42515
+1553666345368	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2, line 5: unreachable code after return statement
+[Parent 8715, Gecko_IOThread] WARNING: pipe error (88): Connection reset by peer: file /build/firefox-SAtaq0/firefox-61.0.1+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1554382364225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e0JdFjfosoyd"
+1554382367343	Marionette	INFO	Listening on port 42101
+1554382367446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://consolebeta.vertoz.com/js/jqwidgets/jqxlistbox.js?r=4.5, line 7: unreachable code after return statement
+[Child 13105, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SAtaq0/firefox-61.0.1+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1554786182524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2nCq8pZKUTVU"
+1554786187981	Marionette	INFO	Listening on port 33749
+1554786188075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554786188083	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"173.214.169.77:3128","httpProxy":"173.214.169.77:3128","sslProxy":"173.214.169.77:3128"}
+[Parent 3315, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/firefox-SAtaq0/firefox-61.0.1+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1554786338711	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gTBXG1RcegBO"
+1554786341559	Marionette	INFO	Listening on port 46115
+1554786341624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554786341634	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"173.214.169.77:3128","httpProxy":"173.214.169.77:3128","sslProxy":"173.214.169.77:3128"}
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 214: TypeError: this._mm is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 3619, Gecko_IOThread] WARNING: pipe error (74): Connection reset by peer: file /build/firefox-SAtaq0/firefox-61.0.1+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1556622216228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nAnKav3grGl6"
+1556622221954	Marionette	INFO	Listening on port 42503
+1556622221971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://consolebeta.vertoz.com/js/jqwidgets/jqxlistbox.js?r=4.5, line 7: unreachable code after return statement
+JavaScript warning: http://consolebeta.vertoz.com/tools/controllers/account-transfer.js?r=4.5, line 103: unreachable code after return statement
+JavaScript error: http://consolebeta.vertoz.com/assets/js/ace.min.js?r=4.5, line 23: TypeError: $(...).ace_colorpicker is not a function
+JavaScript error: https://www.google.com/uds/api/visualization/1.0/40ff64b1d9d6b3213524485974f36cc0/format+en,default+en,ui+en,corechart+en.I.js, line 121: Error: Container is not defined
+JavaScript error: https://www.google.com/uds/api/visualization/1.0/40ff64b1d9d6b3213524485974f36cc0/format+en,default+en,ui+en,corechart+en.I.js, line 121: Error: Container is not defined
+JavaScript error: https://www.google.com/uds/api/visualization/1.0/40ff64b1d9d6b3213524485974f36cc0/format+en,default+en,ui+en,corechart+en.I.js, line 121: Error: Container is not defined
+JavaScript error: http://consolebeta.vertoz.com/angular/angular-1.3.14/angular.min.js?r=4.5, line 6: Error: [ng:btstrpd] http://errors.angularjs.org/1.3.14/ng/btstrpd?p0=%26lt%3Bbody%26gt%3B
+JavaScript error: http://consolebeta.vertoz.com/angular/angular-1.3.14/angular.min.js?r=4.5, line 6: Error: [ng:btstrpd] http://errors.angularjs.org/1.3.14/ng/btstrpd?p0=%26lt%3Bbody%26gt%3B
+1556622482202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TuKq6OqYlNV7"
+1556622485275	Marionette	INFO	Listening on port 46291
+1556622485321	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9692, Chrome_ChildThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-SAtaq0/firefox-61.0.1+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
